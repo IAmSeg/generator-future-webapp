@@ -1,4 +1,4 @@
-# Future Web app generator
+# Future Web App Generator
 
 Write the app of the future using a [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app using [gulp](http://gulpjs.com/) for the build process, [Babel](https://babeljs.io) to leverage [ES2015 features](https://babeljs.io/docs/learn-es2015/), and [PostCSS](https://github.com/postcss/postcss) with [cssnext](http://cssnext.io) for CSS4 syntax.
 
