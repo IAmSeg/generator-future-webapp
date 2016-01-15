@@ -9,7 +9,7 @@ Write the app of the future using a [Yeoman](http://yeoman.io) generator that sc
 
 ## Features
 
-Please see our [gulpfile](app/templates/gulpfile.babel.js) for up to date information on what we support.
+Please see the [gulpfile](app/templates/gulpfile.babel.js) for up to date information on what is supported.
 
 * CSS Autoprefixing
 * Write the CSS of the future with [cssnext](http://cssnext.io) and [PostCSS](https://github.com/postcss/postcss)
