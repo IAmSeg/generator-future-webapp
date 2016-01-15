@@ -1,6 +1,6 @@
 {
   "name": "generator-future-webapp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Write a webapp using the code of the future with gulp, babel and PostCSS with cssnext!",
   "main": "app/index.js",
   "scripts": {
