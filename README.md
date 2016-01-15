@@ -17,7 +17,7 @@ Please see the [gulpfile](app/templates/gulpfile.babel.js) for up to date inform
 * Write the JavaScript of the future using [ES2015 features](https://babeljs.io/docs/learn-es2015/) by using [Babel](https://babeljs.io)
 * Built-in preview server with BrowserSync
 * Automagically lint your scripts
-* Map compiled CSS to source stylesheets with source maps
+* Map compiled CSS and JavaScript to source files with source maps
 * Awesome image optimization
 * Automagically wire-up dependencies installed with [Bower](http://bower.io)
 
