@@ -1,8 +1,8 @@
 {
   "name": "generator-future-webapp",
   "version": "0.1.0",
-  "description": "Write a webapp using the code of the future with gulp, babel and PostCSS using cssnext!",
-  "main": "index.js",
+  "description": "Write a webapp using the code of the future with gulp, babel and PostCSS with cssnext!",
+  "main": "app/index.js",
   "scripts": {
     "test": "mocha --reporter spec --timeout 3000"
   },
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willalanjohnson/generator-future-webapp.git"
+    "url": "git+https://github.com/mrdoctorj/generator-future-webapp.git"
   },
   "files": [
-    "generators/app"
+    "app"
   ],
   "keywords": [
     "yeoman-generator",
@@ -31,9 +31,9 @@
   "author": "Will Johnson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/willalanjohnson/generator-future-webapp/issues"
+    "url": "https://github.com/mrdoctorj/generator-future-webapp/issues"
   },
-  "homepage": "https://github.com/willalanjohnson/generator-future-webapp#readme",
+  "homepage": "https://github.com/mrdoctorj/generator-future-webapp#readme",
   "dependencies": {
     "bluebird": "^3.1.1",
     "chalk": "^1.1.1",

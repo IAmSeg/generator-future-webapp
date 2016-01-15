@@ -1,6 +1,6 @@
-# Web app generator
+# Future Web app generator
 
-> [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app using [gulp](http://gulpjs.com/) for the build process
+Write the app of the future using a [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app using [gulp](http://gulpjs.com/) for the build process, [Babel](https://babeljs.io) to leverage [ES2015 features](https://babeljs.io/docs/learn-es2015/), and [PostCSS](https://github.com/postcss/postcss) with [cssnext](http://cssnext.io) for CSS4 syntax.
 
 
 ## Features
@@ -15,9 +15,8 @@ Please see our [gulpfile](app/templates/gulpfile.babel.js) for up to date inform
 * Map compiled CSS to source stylesheets with source maps
 * Awesome image optimization
 * Automagically wire-up dependencies installed with [Bower](http://bower.io)
-* The gulpfile makes use of [ES2015 features](https://babeljs.io/docs/learn-es2015/) by using [Babel](https://babeljs.io)
 
-*For more information on what this generator can do for you, take a look at the [gulp plugins](app/templates/_package.json) used in our `package.json`.*
+*For more information on what this generator can do for you, take a look at the [gulp plugins](app/templates/_package.json) used in the `package.json`.*
 
 
 ## Getting Started
