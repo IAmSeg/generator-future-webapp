@@ -4,6 +4,8 @@ Write the app of the future using a [Yeoman](http://yeoman.io) generator that sc
 
 
 [![npm version](https://badge.fury.io/js/generator-future-webapp.svg)](https://www.npmjs.com/package/generator-future-webapp)
+[![Dependency Status](https://david-dm.org/mrdoctorj/generator-future-webapp.svg)](https://david-dm.org/mrdoctorj/generator-future-webapp)
+[![devDependency Status](https://david-dm.org/mrdoctorj/generator-future-webapp/dev-status.svg)](https://david-dm.org/mrdoctorj/generator-future-webapp#info=devDependencies)
 
 ## Features
 
