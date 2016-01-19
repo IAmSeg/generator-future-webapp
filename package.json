@@ -29,7 +29,7 @@
     "webapp"
   ],
   "author": "Will Johnson",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mrdoctorj/generator-future-webapp/issues"
   },

@@ -45,4 +45,4 @@ Please see the [gulpfile](app/templates/gulpfile.babel.js) for up to date inform
 
 ## License
 
-[ISC license](https://opensource.org/licenses/ISC)
+[MIT license](https://opensource.org/licenses/MIT)
