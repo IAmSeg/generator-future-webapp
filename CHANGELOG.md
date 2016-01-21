@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Added scripts task to watch for js files.
+
 ## 1.0.0
 
 * Changed license to MIT to make the code more permissive.
