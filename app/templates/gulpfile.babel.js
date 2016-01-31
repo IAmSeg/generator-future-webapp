@@ -9,7 +9,7 @@ import lazypipe from 'lazypipe';
 const $ = gulpLoadPlugins();
 const reload = browserSync.reload;
 
-gulp.task('styles', ['wiredep'], () => {
+gulp.task('styles', () => {
   return gulp.src('app/styles/*.css')
     .pipe($.plumber())
     .pipe($.postcss([
@@ -19,7 +19,7 @@ gulp.task('styles', ['wiredep'], () => {
     .pipe(reload({stream: true}));
 });
 
-gulp.task('scripts', ['wiredep'], () => {
+gulp.task('scripts', () => {
   return gulp.src('app/scripts/*.js')
     .pipe($.plumber())
     .pipe($.babel({

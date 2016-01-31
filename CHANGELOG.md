@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Removed wiredep from task dependencies for styles and scripts as it was causing it to error out when changes occurred during live development.
+
 ## 1.0.1
 
 * Added scripts task to watch for js files.
