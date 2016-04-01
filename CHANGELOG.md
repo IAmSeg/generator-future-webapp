@@ -1,3 +1,6 @@
+## 1.1.1
+* Moved generator-jasmine and generator-mocha from dev dependencies to dependencies.
+
 ## 1.1.0
 * Updated various generator dependencies and dev dependencies.
   * Updated lodash from 3.10.1 to 4.7.0.

@@ -38,6 +38,8 @@
     "bluebird": "^3.1.1",
     "chalk": "^1.1.1",
     "file": "^0.2.2",
+    "generator-jasmine": "^0.2.2",
+    "generator-mocha": "^0.3.0",
     "git-config": "0.0.7",
     "lodash": "^4.7.0",
     "lodash.camelcase": "^4.1.0",
@@ -52,8 +54,6 @@
     "yosay": "^1.1.0"
   },
   "devDependencies": {
-    "generator-jasmine": "^0.2.2",
-    "generator-mocha": "^0.3.0",
     "mocha": "*",
     "yeoman-test": "^1.0.0"
   }
