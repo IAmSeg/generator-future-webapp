@@ -39,14 +39,13 @@
     "chalk": "^1.1.1",
     "file": "^0.2.2",
     "git-config": "0.0.7",
-    "lodash": "^3.10.1",
-    "lodash.camelcase": "^3.0.1",
-    "lodash.kebabcase": "^3.0.1",
-    "lodash.trim": "^3.0.1",
+    "lodash": "^4.7.0",
+    "lodash.camelcase": "^4.1.0",
+    "lodash.kebabcase": "^4.0.0",
+    "lodash.trim": "^4.2.0",
     "mkdirp": "^0.5.1",
     "path": "^0.12.7",
     "underscore.string": "^3.2.2",
-    "wiredep": "^3.0.0",
     "yeoman-assert": "^2.1.1",
     "yeoman-generator": "^0.22.2",
     "yo": "^1.6.0",
@@ -54,7 +53,7 @@
   },
   "devDependencies": {
     "generator-jasmine": "^0.2.2",
-    "generator-mocha": "^0.2.0",
+    "generator-mocha": "^0.3.0",
     "mocha": "*",
     "yeoman-test": "^1.0.0"
   }
